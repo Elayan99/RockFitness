@@ -51,7 +51,7 @@ const data = {
       },
       {
         exercise: "Tricep Cable Extension",
-        slug: "skull-crusher",
+        slug: "tricep-cable",
         image: "/images/tricepcableextension.jpg",
         set: "3",
         reps: "8-12",
